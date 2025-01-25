@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # To Do List App ReactJS V2
 
-To Do List App in ReactJS by WebStylePress. V2 refactored and improved. Functions for adding, editing, toggling and deleting were improved.
+To Do List App in ReactJS by Aditya Dash. V2 refactored and improved. Functions for adding, editing, toggling and deleting were improved.
 
 ## How to Use
 
@@ -27,15 +27,4 @@ OR
 
 npm start
 
-### YouTube Tutorial URL
 
-Title: React To Do List App (v2) | Refactored & Improved | Learn React JS | Do More with Less Code
-
-https://youtu.be/E2CWxv5hOso
-
-Old Code (https://github.com/webstylepress/to-do-list-app-react-wsp)
-
-Old Video (https://youtu.be/TmDNBEdHzVs)
-=======
-# demo-to-do-list
->>>>>>> 3359f9c38d0b07d7d9e5d47fbe4b12b0faf6fdc1
